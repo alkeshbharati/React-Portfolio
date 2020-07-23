@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineer at Intellect Design Arena Ltd <span>2018-2019</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>After completing my undergrad education i joined Intellect Design Arena Ltd as software developer. I was part of backend team where was responsible for building Rest Api using spring boot, sql developer. I was also part of framework team where i was responsible for fixing framework issues which involved techbologies Spring MVS, Javascript.</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Intern at Ernst & Young <span>2017-2018</span></h2>
-                        <p></p>
+                        <p>I did my internship at E&Y for two months where i was responsible for building Cyber security web application for one of their client. The app was built using ASP.net</p>
                       </div>
                     </div>
                   </article>
@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Intern at Tiger Advertising <span>2016</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <p>This was my industrial training which lasted for two months ,where i went traning in .net which helped me learn concepts of web application development.</p> 
                       </div>
                     </div>
                   </article>
